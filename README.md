@@ -1,5 +1,5 @@
 
-**Начальный стек технологий backend: Python 3, Django 3, MySQL/PostgreSQL, MongoDB, Redis, Memcached, RabbitMQ, Celery, Elasticsearch, REST, GraphQL.**
+**Начальный стек технологий backend: Python 3, FastAPI, PostgreSQL, MongoDB, Redis, Memcached, RabbitMQ, Celery, Elasticsearch, REST, GraphQL.**
 
 ## Задача
 
